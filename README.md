@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Watchlist - CRUD Application
 
 A full-stack movie watchlist application with PHP backend and React frontend.
@@ -142,3 +143,6 @@ The built files will be in `frontend/dist/` and can be served via Apache or any 
 
 MIT
 
+=======
+# pweb_ujian_moviewatchlist
+>>>>>>> 853b742c3f1ecd400a11911595001f3efef35dbb
